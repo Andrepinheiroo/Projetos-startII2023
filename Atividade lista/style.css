@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&family=Stoke&display=swap');
+
+body {
+    background-image: url(/Aulas-start/assets-aula/Retro\ Pixel\ Landscape\ Background.gif);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+#conteudo {
+    max-width: 70%;
+    margin: 0 auto;
+    background-color: rgba(12, 11, 11, 0.726);
+    padding: 20px;
+    border-radius: 3%;
+    text-align: center;  
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Krona One', sans-serif;
+}
+ol{
+    font-family: 'Montserrar', sans-serif;
+
+}
+
+.plataforma {
+    margin-top: 20px;
+    display: flex;
+    justify-content:center;
+    gap: 3%;
+    flex-wrap: wrap;
+}
+
+h2 {
+    
+    font-family: 'Krona One', sans-serif; 
+}
+p{
+    font-family:'Montserrar', sans-serif;
+    font-size: 1rem;
+}
+img{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 2%; 
+}
+
+.capa{
+    width: 16rem;
+    height: 16rem;
+    border-radius: 20px;
+}
+.rodape {
+    text-align: center;
+    padding: 12px;
+    font-family:'Krona One', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 400;
+}
